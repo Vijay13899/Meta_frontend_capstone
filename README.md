@@ -9,6 +9,6 @@
 <h4>Screenshots</h4>
 <img src="./screenshots/img1.png" alt="little lemon page">
 <img src="./screenshots/img2.png" alt="little lemon page">
-<img src="./screenshots/img3.png" alt="little lemon page">
+<img src="./screenshots/mg3.png" alt="little lemon page">
 <img src="./screenshots/img4.png" alt="little lemon page">
 <img src="./screenshots/img5.png" alt="little lemon page">
